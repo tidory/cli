@@ -38,7 +38,7 @@
     "lodash": "^4.17.15",
     "optimize-css-assets-webpack-plugin": "^3.2.0",
     "pretty": "^2.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "randomstring": "^1.1.5",
     "raw-loader": "^0.5.1",
